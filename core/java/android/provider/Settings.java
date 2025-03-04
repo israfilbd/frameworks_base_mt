@@ -14095,7 +14095,6 @@ public final class Settings {
         public static final String STYLUS_POINTER_ICON_ENABLED = "stylus_pointer_icon_enabled";
 
         /**
-<<<<<<< HEAD
          * Whether to always show the time on media controls
          * @hide
          */
@@ -14114,8 +14113,6 @@ public final class Settings {
         public static final String STATUS_BAR_SHOW_LYRIC = "status_bar_show_lyric";
 
         /**
-=======
->>>>>>> 7a6602babfb8 (base: Move window ignore secure to global settings)
          * These entries are considered common between the personal and the managed profile,
          * since the managed profile doesn't get to change them.
          */
